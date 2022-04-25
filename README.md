@@ -1,0 +1,1 @@
+# et-718-cv-css-rails-template
